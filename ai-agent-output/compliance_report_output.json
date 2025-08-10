@@ -1,0 +1,40 @@
+{
+  "egyptian_standards": [
+    "Egyptian Organization for Standardization and Quality (EOS) approval",
+    "IEC 62133 compliance",
+    "ISO 9001:2015 certified"
+  ],
+  "international_certifications": [
+    "CE certification",
+    "UN38.3 certification"
+  ],
+  "transport_restrictions": [
+    "Batteries must comply with Egyptian safety standards",
+    "Documentation required for customs clearance",
+    "Transport must adhere to IATA regulations for lithium batteries"
+  ],
+  "trade_regulations": [
+    "Import duties apply at 5%",
+    "Batteries must meet local safety and quality standards",
+    "Compliance with international shipping regulations"
+  ],
+  "compliance_actions": [
+    "Obtain EOS approval for all battery packs",
+    "Ensure all products are CE and UN38.3 certified",
+    "Conduct regular quality audits to maintain ISO 9001:2015 certification",
+    "Prepare all necessary documentation for customs clearance",
+    "Train staff on handling and storage regulations for lithium batteries"
+  ],
+  "regulatory_bodies": [
+    "Egyptian Organization for Standardization and Quality (EOS)",
+    "Ministry of Trade and Industry",
+    "Egyptian Customs Authority"
+  ],
+  "documentation_requirements": [
+    "Commercial invoice",
+    "Packing list",
+    "Certificate of origin",
+    "Safety data sheets (SDS)",
+    "Test reports for compliance with EOS and IEC standards"
+  ]
+}

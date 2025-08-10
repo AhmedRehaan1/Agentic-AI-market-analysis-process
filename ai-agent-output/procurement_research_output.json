@@ -1,0 +1,68 @@
+{
+  "suppliers": [
+    "Egypt Battery Manufacturing Co.",
+    "El-Sewedy Electric",
+    "Nile Battery Co.",
+    "Batteries Egypt",
+    "PowerTech Solutions"
+  ],
+  "prices_egp": [
+    1500.0,
+    2000.0,
+    1800.0,
+    2200.0,
+    2500.0
+  ],
+  "prices_usd": [
+    48.0,
+    64.0,
+    57.0,
+    70.0,
+    80.0
+  ],
+  "stock_levels": [
+    500,
+    300,
+    450,
+    200,
+    150
+  ],
+  "technical_specs": [
+    "3.7V, 5000mAh, 25C discharge rate",
+    "3.7V, 10000mAh, 30C discharge rate",
+    "3.7V, 8000mAh, 20C discharge rate",
+    "3.7V, 6000mAh, 25C discharge rate",
+    "3.7V, 12000mAh, 35C discharge rate"
+  ],
+  "moq": [
+    10,
+    5,
+    15,
+    20,
+    25
+  ],
+  "warranty_terms": [
+    "1 year warranty against manufacturing defects",
+    "6 months warranty",
+    "2 years warranty",
+    "1 year warranty",
+    "1.5 years warranty"
+  ],
+  "shipping_options": [
+    "Standard delivery within 5-7 days",
+    "Express delivery within 2-3 days",
+    "Local pickup available",
+    "Free shipping on orders over EGP 5000"
+  ],
+  "import_restrictions": [
+    "Import duties apply at 5%",
+    "Batteries must comply with Egyptian safety standards",
+    "Documentation required for customs clearance"
+  ],
+  "regulatory_standards": [
+    "ISO 9001:2015 certified",
+    "IEC 62133 compliance",
+    "Egyptian Organization for Standardization and Quality (EOS) approval"
+  ],
+  "market_forecast_2025": "The market for Lithium Polymer battery packs in Egypt is expected to grow at a CAGR of 15% from 2023 to 2025, driven by increasing demand in consumer electronics and electric vehicles."
+}
