@@ -20,3 +20,4 @@ The final output includes structured JSON data and a professionally formatted La
 
 ## Project Structure
 <img width="348" height="627" alt="Image" src="https://github.com/user-attachments/assets/0105cee7-203b-4f96-aa0f-d1a4405c2ad4" />
+
