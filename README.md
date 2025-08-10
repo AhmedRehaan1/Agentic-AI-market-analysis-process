@@ -36,7 +36,7 @@ Technical Report Editor Agent consolidates all previous outputs and generates a 
 This pipeline ensures a thorough, expert-level synthesis of procurement intelligence, market insights, regulatory adherence, and report production.
 
 ## Detailed Agent Roles
-1. Procurement Researcher Agent
+# 1. Procurement Researcher Agent
 Role: Procurement Research Specialist
 
 Goal: Conduct exhaustive research on LiPo battery suppliers in Egypt, collecting verified data on prices (EGP & USD), stock levels, technical specs, minimum order quantities, warranty terms, shipping options, import restrictions, regulatory standards, and provide a market forecast for 2025.
@@ -45,7 +45,7 @@ Output: Structured JSON dataset detailing supplier and market info.
 
 Expertise: Procurement, supplier vetting, regulatory knowledge in battery components.
 
-2. Market Analyst Agent
+# 2. Market Analyst Agent
 Role: Market Intelligence Expert
 
 Goal: Analyze procurement data to assess Egyptian LiPo battery market size, annual growth rate, demand trends, competition landscape, import/export volumes, consumer segmentation, pricing trends, and identify opportunities and risks.
@@ -54,7 +54,7 @@ Output: JSON report with market metrics and strategic insights.
 
 Expertise: Market analysis, data-driven strategy, North African battery markets.
 
-3. Regulatory Compliance Officer Agent
+# 3. Regulatory Compliance Officer Agent
 Role: Compliance & Safety Consultant
 
 Goal: Review findings to identify Egyptian standards (EOS), international certifications (CE, UN38.3, IEC), transport/storage restrictions, trade regulations, and recommend compliance actions to mitigate risks and ensure smooth import and sales processes.
@@ -63,7 +63,7 @@ Output: JSON summary of compliance requirements and recommended actions.
 
 Expertise: Regulatory frameworks, safety standards, import/export legalities.
 
-4. Technical Report Editor Agent
+# 4. Technical Report Editor Agent
 Role: Technical Writer & LaTeX Specialist
 
 Goal: Compile the procurement, market, and compliance outputs into a professional LaTeX report ready for Overleaf, including title page, table of contents, executive summary, sections with detailed findings, tables, bullet points, conclusions, and references.
@@ -71,3 +71,4 @@ Goal: Compile the procurement, market, and compliance outputs into a professiona
 Output: Complete LaTeX document source code.
 
 Expertise: Technical writing, document formatting, LaTeX proficiency.
+
