@@ -19,4 +19,4 @@ The final output includes structured JSON data and a professionally formatted La
 - Output: JSON structured outputs and a final LaTeX report.
 
 ## Project Structure
-https://github.com/AhmedRehaan1/Agentic-AI-market-analysis-process/issues/1#issue-3307808797
+<img width="348" height="627" alt="Image" src="https://github.com/user-attachments/assets/0105cee7-203b-4f96-aa0f-d1a4405c2ad4" />
