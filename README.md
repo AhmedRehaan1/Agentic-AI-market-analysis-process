@@ -71,4 +71,6 @@ Goal: Compile the procurement, market, and compliance outputs into a professiona
 Output: Complete LaTeX document source code.
 
 Expertise: Technical writing, document formatting, LaTeX proficiency.
+## Final report output
+[Procurement_report.pdf](https://github.com/user-attachments/files/21707083/Procurement_report.pdf)
 
