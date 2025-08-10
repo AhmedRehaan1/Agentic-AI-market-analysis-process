@@ -1,19 +1,7 @@
 # Lithium Polymer (LiPo) Battery Procurement & Market Analysis in Egypt
 
-<!-- Replace with your project logo or remove -->
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Agents & Tasks](#agents--tasks)
-- [Configuration](#configuration)
-- [Output](#output)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Project Overview
 This project implements an AI-powered multi-agent system designed to research, analyze, and report on the procurement of Lithium Polymer (LiPo) battery packs within the Egyptian market. Leveraging the CrewAI framework and large language models (LLMs), it automates data gathering, market analysis, regulatory compliance, and report generation.
